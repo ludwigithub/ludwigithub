@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ludwigithub
 - 👀 I’m interested in solving problems and learning more
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m currently earning a Computer Science degree
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me deonne.ludwig@gmail.com
 
